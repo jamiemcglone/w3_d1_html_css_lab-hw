@@ -11,6 +11,7 @@ body > header > h1 {
 body > header {
 background-color: dodgerblue;
 color: white;
+padding-bottom: 20px;
 }
 
 body > header > nav > ul {
